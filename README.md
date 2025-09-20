@@ -87,7 +87,7 @@ You also need:
 ## ▶️ Run the Script
 
 ```bash
-python main.py
+python parser.py
 ```
 
 * Each page is processed sequentially.
