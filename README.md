@@ -26,7 +26,7 @@ This project extracts **text, tables, and images (with OCR)** from PDF files and
 ```
 project/
 │
-├─ main.py                  # The script (code shown above)
+├─ parser.py                  # The script (code shown above)
 ├─ sample_pdf.pdf           # Input file to parse (replace with your own)
 └─ output_llm.json         # Output JSON created after running the script
 ```
